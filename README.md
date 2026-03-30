@@ -33,12 +33,8 @@ This project presents an interactive **Uber Analytics Dashboard** built using Po
 * **Data Cleaning & Transformation**
 
 ---
-
-## 📷 Dashboard Preview
-
-![Dashboard Preview](dashboard_preview.png)
-
----
+ 
+ 
 
 ## 📁 Project Structure
 
@@ -77,8 +73,8 @@ Uber-Dashboard-PowerBI/
 
 ## 📬 Connect With Me
 
-* LinkedIn: [Add Your Link Here]
-* GitHub: [Add Your GitHub Profile]
+* LinkedIn: https://www.linkedin.com/in/ritviz-tiwari-a26111289/
+* GitHub: https://github.com/Ritviz01
 
 ---
 
